@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072842332746",
+    "project_id": "universityproject-20880",
+    "storage_bucket": "universityproject-20880.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072842332746:android:8b91786171d95a770ea4b3",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8gprCo3TVyfKhFwGUxbmrw6_CqYOXm2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
